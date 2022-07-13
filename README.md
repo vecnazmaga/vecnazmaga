@@ -2,24 +2,21 @@
 
 ### Connect with me
 
-<a href="mailto:vecnazmaga" target="_blank">
+<a href="mailto:vecnazmaga">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/comm/in/jay-west-a8b42723a" target="_blank">
+<a href="https://www.linkedin.com/comm/in/jay-west-a8b42723a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://vecnazmaga.netlify.app/" target="_blank">
+<a href="https://vecnazmaga.netlify.app/">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://join.skype.com/invite/yG5gKNXqR69e" target="_blank">
+<a href="https://join.skype.com/invite/yG5gKNXqR69e">
   <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/965772784653443215" target="_blank">
+<a href="https://discordapp.com/users/965772784653443215">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="tel:+18604792592" target="_blank">
-  <img src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple"/>
-</a>
-<a href="https://t.me/vecnazmaga" target="_blank">
+<a href="https://t.me/vecnazmaga">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
