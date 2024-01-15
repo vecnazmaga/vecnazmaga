@@ -1,9 +1,12 @@
-### Hi, I've been working as a Full Stack blockchain developer for over 5 years, built many types of blockchain projects like NFT, Defi, DEX, DAO or something. I currently am searching for an amazing job that I really resonate within the crypto/NFT/GameFi space to forge a great life for myself and to build up my portfolio and as for casino, betting websites building. I have years of experience as a full stack software engineer, mainly using Golang, Cosmos, React js, Vue js and Angular. I'm quite familiar with hardhat, ethers, Typescript, git, etc. My work has involved migrating projects from Truffle to Hardhat, using ethers for unit testing or modifying Solidity code. Now that I know the tooling and the basics, I'd really like to write big contracts related to DAO and DeFi. I'm senior and have rich experience in blockchain, so I'm quite sure I can get paid for that. Thanks!
-<!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vecnazmaga@gmail.com) -->
-<!-- [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/zqVb0AjH4liM) -->
-<!-- [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vecnazmaga) -->
-<!-- [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vx543ke7) -->
-<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-west-a8b42723a/) -->
+#### Hi, I am an accomplished Full Stack blockchain developer with over 5 years of experience specializing in casino, iGaming, and game development within the blockchain ecosystem. Throughout my career, I have successfully delivered a diverse range of blockchain projects, including NFT platforms, DeFi protocols, decentralized exchanges (DEX), and decentralized autonomous organizations (DAO). Additionally, I have extensive experience in the development of casino games, P2E (Play-to-Earn) games, and other interactive gaming applications.
+
+#### I am currently seeking an exceptional opportunity within the crypto/NFT/GameFi space that aligns with my expertise and passion for blockchain technology and gaming. My goal is to further enrich my professional portfolio and contribute significantly to innovative projects within this dynamic industry.
+
+#### As a seasoned full stack software engineer, I have honed my skills in a variety of technologies, including Golang, Cosmos, React.js, Vue.js, and Angular. My proficiency extends to essential tools such as hardhat, ethers, TypeScript, and Git. Notably, I have successfully led the migration of projects from Truffle to Hardhat, employed ethers for rigorous unit testing, and adeptly modified Solidity code to enhance project functionality.
+
+#### With a comprehensive understanding of blockchain tooling and fundamentals, I am eager to undertake the development of intricate contracts related to DAO and DeFi. My seniority in the field and rich experience in blockchain technology and game development positions me to make substantial contributions to cutting-edge initiatives. I am confident in my ability to deliver exceptional results and am seeking a role that reflects the value I bring to the table.
+
+#### Thank you for considering my profile, and I am looking forward to the opportunity to contribute to pioneering projects in the crypto/NFT/GameFi space.
 
 > GitHub 3D Contributors
 
