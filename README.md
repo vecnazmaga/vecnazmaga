@@ -4,3 +4,8 @@
 <!-- [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vecnazmaga) -->
 <!-- [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vx543ke7) -->
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-west-a8b42723a/) -->
+
+> GitHub Activity Graph
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/vecnazmaga/vecnazmaga"><img alt="vecnazmaga's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vecnazmaga&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
