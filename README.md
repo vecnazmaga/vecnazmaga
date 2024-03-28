@@ -1,5 +1,9 @@
 # <a href="https://github.com/vecnazmaga/Blockchain_Special_Overview">Blockchain Special Overview</a>
 
+This is Kala. We've worked together in the past company before. Do you remember me? My nick name was Charley Star and your nick name was Panther at that time. 
+If you remember me, can you please ping me to my telegram: @kalatechlabs . If you are not, sorry for bothering you.
+Best Regards.
+
 #### Hi, I am an accomplished Full Stack blockchain developer with over 5 years of experience specializing in casino, iGaming, and game development within the blockchain ecosystem. Throughout my career, I have successfully delivered a diverse range of blockchain projects, including NFT platforms, DeFi protocols, decentralized exchanges (DEX), and decentralized autonomous organizations (DAO). Additionally, I have extensive experience in the development of casino games, P2E (Play-to-Earn) games, and other interactive gaming applications.
 
 #### I am currently seeking an exceptional opportunity within the crypto/NFT/GameFi space that aligns with my expertise and passion for blockchain technology and gaming. My goal is to further enrich my professional portfolio and contribute significantly to innovative projects within this dynamic industry.
